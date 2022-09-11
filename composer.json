@@ -2,6 +2,7 @@
     "name": "commencement.technology/botcheck",
     "description": "The package which identify the Bot or Crawler which help to identify the how many bots or crawler visiting in day and from where",
     "type": "library",
+    "keywords": ["Bot","Crawler","OS","Browser","Detect"],
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -11,9 +12,12 @@
     "authors": [
         {
             "name": "Commencement Technology",
-            "email": "biz@commencement.technology"
+            "email": "biz@commencement.technology",
+            "homepage": "https://commencement.technology"
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": ">=7.0.0"
+    }
 }
