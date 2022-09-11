@@ -2,7 +2,7 @@
 
 namespace CommencementTechnology\Botcheck;
 
-class Index
+class BotChecker
 {
     private $ua;
 
