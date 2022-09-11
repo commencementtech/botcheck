@@ -1,0 +1,19 @@
+{
+    "name": "commencement.technology/botcheck",
+    "description": "The package which identify the Bot or Crawler which help to identify the how many bots or crawler visiting in day and from where",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CommencementTechnology\\Botcheck\\": "CommencementTechnology/Botcheck/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Commencement Technology",
+            "email": "biz@commencement.technology"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
